@@ -1,4 +1,3 @@
-
 class Contact {
     constructor(firstName, lastName, address, city, state, zip, phone, email) {
         this.validateName(firstName, "First Name");
